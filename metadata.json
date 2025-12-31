@@ -1,0 +1,5 @@
+{
+  "name": "FitParse: Workout Data to CSV",
+  "description": "Upload your PDF workout summaries and automatically extract structured data into CSV format for easy tracking and analysis.",
+  "requestFramePermissions": []
+}
